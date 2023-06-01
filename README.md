@@ -1,0 +1,2 @@
+# bandymas
+bandymo pvz
